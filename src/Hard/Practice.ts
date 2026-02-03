@@ -163,3 +163,4 @@ console.log("Q24:", pradeepaUnion);
 // 25: Variable using readonly array type
 let pradeepaReadOnlyArr: readonly string[] = ["Pradeepa", "Automation", "TS"];
 console.log("Q25:", pradeepaReadOnlyArr);
+
